@@ -6,3 +6,7 @@
 
 
 
+
+
+- current status: Student at Bannari amman institute of technology
+- Interest : web development 
