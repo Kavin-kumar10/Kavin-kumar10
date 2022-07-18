@@ -1,15 +1,3 @@
-<code>
- 
-- 👋 Hi, I’m @Kavin-kumar10
-- 👀 I’m interested in full stack developement,front-end develop,back-end develop
-- 🌱 I’m currently learning react js, express js
-- 💞️ I’m looking to collaborate on attractive and responsive web designs
-- 📫 reach me with my mail id : kavinkumar.prof@gmail.com
-- current status: Student at Bannari amman institute of technology
-- Interest : web development 
- 
-</code>
-
 <h1 align="center">Hi 👋, I'm Kavin-kumar10</h1>
 <h3 align="center">I'm intersted in full stack development</h3>
 <img src = "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif" align = "right" height = "500px" width = "500px">
@@ -17,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-kumar10&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-kumar10" /> </p>
 
+<code>
+
 - 👋 Hi, I’m @Kavin-kumar10
 
 - 👀 I’m interested in full stack developement,front-end develop,back-end develop
@@ -27,6 +17,7 @@
 
 - 📫 reach me with my mail id : kavinkumar.prof@gmail.com
 
+</code>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/optimus_soul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="optimus_soul_" height="30" width="40" /></a>
