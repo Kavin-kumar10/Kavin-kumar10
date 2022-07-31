@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavin-kumar10</h1>
-<h3 align="center">I'm intersted in full stack development</h3>
+<h3 align="center">I'm interested in full stack development</h3>
 <img src = "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/10/Boy-Working-From-Home.gif" align = "right" height = "500px" width = "500px">
 
 
