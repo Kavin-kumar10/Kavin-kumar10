@@ -2,12 +2,16 @@
 <h1 align="center">Hi 👋, I'm Kavin Kumar M</h1>
 <h3 align="center">Full stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src = "https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="300" src = "https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-kumar10&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-kumar10" /> </p>
 
 - 🔭 I’m currently working on **Matrimonial Site**
 
+- 🌱 I’m currently learning **Dotnet Entity framework and Typescript**
+
 - 👨‍💻 All of my projects are available at [https://kavin-kumar10.github.io/MyPortfolio/](https://kavin-kumar10.github.io/MyPortfolio/)
+
+- 💬 Ask me about **React, Dotnet c# and Sql database**
 
 - 📫 How to reach me **kavinkumar.prof@gmail.com**
 
