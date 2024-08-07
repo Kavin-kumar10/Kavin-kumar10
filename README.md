@@ -1,4 +1,4 @@
-![logo](https://github.com/Kavin-kumar10/Kavin-kumar10/blob/main/Github%20frame.png)
+![logo](https://github.com/Kavin-kumar10/Kavin-kumar10/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Kavin Kumar M</h1>
 <h3 align="center">Full stack Developer from India</h3>
 
